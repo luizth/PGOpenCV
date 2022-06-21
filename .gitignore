@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# pycache
+__pycache__/
+resources/__pycache__/
+utils/__pycache__/
+
+# venv
+venv/
