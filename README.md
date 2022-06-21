@@ -1,8 +1,9 @@
 # PGOpenCV
 
-Luiz Thomasini e Guilherme Kehl
+**Nomes: Luiz Thomasini e Guilherme Kehl**
 
-Aplicação desenvolvida para o trabalho do GB utilizando processamento de imagens com a biblioteca OpenCV em Python.
+Aplicação desenvolvida para o trabalho do GB para a disciplina de Processamento Gráfico utilizando o processamento de 
+imagens da biblioteca OpenCV em Python.
 
 ---
 ### Features implementadas:
@@ -54,10 +55,10 @@ Stickers Dinâmicos (tracking):
 ---
 Exemplos:
 
-![](https://imgur.com/a/QuTqOOX)
+![](https://i.imgur.com/BGAkC1z.png)
 
-![](https://imgur.com/a/yJZqtNC)
+![](https://i.imgur.com/vuNFrSK.png)
 
-![](https://imgur.com/a/hWoUfjJ)
+![](https://i.imgur.com/7eNzmIC.png)
 
-![](https://imgur.com/a/bC90oHw)
+![](https://i.imgur.com/5sfoQuC.png)
